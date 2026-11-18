@@ -39,6 +39,7 @@ from .harris_lahey import (
     harris_lahey_binary_distance,
     harris_lahey_binary_similarity,
 )
+from .isim import isim
 from .kulczynski import (
     bulk_kulczynski_binary_distance,
     bulk_kulczynski_binary_similarity,

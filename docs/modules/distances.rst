@@ -111,3 +111,11 @@ Bulk functions for matrices (pairwise similarities):
     bulk_sokal_sneath_2_binary_similarity
     bulk_tanimoto_binary_similarity
     bulk_tanimoto_count_similarity
+
+Aggregate / set similarity (average over all pairs in a set):
+
+.. autosummary::
+    :nosignatures:
+    :toctree: generated/
+
+    isim
